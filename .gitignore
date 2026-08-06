@@ -8,5 +8,6 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/processed/traducao.ipynb
 *.csv
-##.ipynb_checkpoints/
+.ipynb_checkpoints/
